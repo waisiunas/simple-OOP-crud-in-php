@@ -91,7 +91,7 @@ if (isset($_SESSION['success'])) {
 										<div class="row">
 											<div class="col-auto mx-auto">
 												<div class="alert alert-danger" role="alert">
-													No record found!
+													No student found!
 												</div>
 											</div>
 										</div>
